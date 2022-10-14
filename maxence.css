@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
-    color: #666666;
+    color: black;
 }
 img {
     max-width: 600px
@@ -10,9 +10,9 @@ img {
 
 .intropara{
     font-size: 18px;
-    color: rgb(94, 90, 90);
+    color: rgb(146, 146, 146);
 }
-.intropara2{
+.intropara{
     font-size: 18px;
     color: rgb(185, 4, 4);
 }
@@ -37,7 +37,7 @@ body {
 }
 
 .top-menu {
-   background-color: #131359;
+   background-color: #750707;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -62,11 +62,11 @@ body {
 }
 
 .top-menu li a:hover {
-    background-color: red;
+    background-color: #5f0606;
 }
 
 .current-page-link {
-    background-color: #db0e0e;
+    background-color: #5f0606;
 }
 
 .page-content {
@@ -100,7 +100,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color:#3f3c3c;
+    background-color:#5f0606;
 }
 
 .footer-content {
