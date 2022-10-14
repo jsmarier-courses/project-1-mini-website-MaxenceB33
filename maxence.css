@@ -9,10 +9,13 @@ img {
 }
 
 .intropara{
-    font-size: 14px;
-    color: red;
+    font-size: 18px;
+    color: rgb(94, 90, 90);
 }
-
+.intropara2{
+    font-size: 18px;
+    color: rgb(185, 4, 4);
+}
 body {
     background-color: whitesmoke;
 }
